@@ -1,0 +1,76 @@
+Command: add Jon Snow
+	Jon Snow was added. 5 spot(s) remain.
+Command: display
+	Currently Enrolled:
+		Student 1: Jon Snow
+Command: add Moby Dick
+	Moby Dick was added. 4 spot(s) remain.
+Command: modify Moby Dick:Gandalf Grey
+	Student Moby Dick name modified to Gandalf Grey.
+Command: add Jane Eyre
+	Jane Eyre was added. 3 spot(s) remain.
+Command: modify Jon Snow:Jamie Lannister
+	Student Jon Snow name modified to Jamie Lannister.
+Command: modify Moby Dick:Nick Carraway
+	No student with name Moby Dick found.
+Command: remove William Riker
+	No student named William Riker was found to remove.
+Command: add William Riker
+	William Riker was added. 2 spot(s) remain.
+Command: add Sherlock Holmes
+	Sherlock Holmes was added. 1 spot(s) remain.
+Command: modify Sherlock Holmes:Obi-Wan Kenobi
+	Student Sherlock Holmes name modified to Obi-Wan Kenobi.
+Command: add John Watson
+	John Watson was added. 0 spot(s) remain.
+Command: add Bram Stoker
+	Student Bram Stoker not added. The class is already at capacity.
+Command: remove Jon Snow
+	No student named Jon Snow was found to remove.
+Command: add Lucy Westenra
+	Student Lucy Westenra not added. The class is already at capacity.
+Command: delete
+	Jamie Lannister removed in class delete.
+	Gandalf Grey removed in class delete.
+	Jane Eyre removed in class delete.
+	William Riker removed in class delete.
+	Obi-Wan Kenobi removed in class delete.
+	John Watson removed in class delete.
+	Class was restarted and reopened for enrollment.
+
+Command: add Edward Rochester
+	Edward Rochester was added. 16 spot(s) remain.
+Command: remove Edward Rochester
+	Student Edward Rochester removed. The course now has 17 seats remaining.
+Command: modify Minerva McGonagall:Bram Stoker
+	No student with name Minerva McGonagall found.
+Command: modify Edward Rochester:Minerva McGonagall
+	No student with name Edward Rochester found.
+Command: modify Edward Rochester:Sansa Stark
+	No student with name Edward Rochester found.
+Command: remove Edward Rochester
+	No student named Edward Rochester was found to remove.
+Command: modify Leonard McCoy:Leonard McCoy
+	No student with name Leonard McCoy found.
+Command: modify Edward Rochester:Gale Hawthorne
+	No student with name Edward Rochester found.
+Command: remove Jean-Luc Picard
+	No student named Jean-Luc Picard was found to remove.
+Command: add Hannibal Lecter
+	Hannibal Lecter was added. 16 spot(s) remain.
+Command: modify Spike Xena:Han Solo
+	No student with name Spike Xena found.
+Command: display
+	Currently Enrolled:
+		Student 1: Hannibal Lecter
+Command: add Ron Weasley
+	Ron Weasley was added. 15 spot(s) remain.
+Command: modify Lara Croft:Obi-Wan Kenobi
+	No student with name Lara Croft found.
+Command: remove Edward Rochester
+	No student named Edward Rochester was found to remove.
+Command: delete
+	Hannibal Lecter removed in class delete.
+	Ron Weasley removed in class delete.
+	Class was restarted and reopened for enrollment.
+

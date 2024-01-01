@@ -1,0 +1,35 @@
+6
+add Jon Snow
+display
+add Moby Dick
+modify Moby Dick:Gandalf Grey
+add Jane Eyre
+modify Jon Snow:Jamie Lannister
+modify Moby Dick:Nick Carraway
+remove William Riker
+add William Riker
+add Sherlock Holmes
+modify Sherlock Holmes:Obi-Wan Kenobi
+add John Watson
+add Bram Stoker
+remove Jon Snow
+add Lucy Westenra
+delete
+17
+add Edward Rochester
+remove Edward Rochester
+modify Minerva McGonagall:Bram Stoker
+modify Edward Rochester:Minerva McGonagall
+modify Edward Rochester:Sansa Stark
+remove Edward Rochester
+modify Leonard McCoy:Leonard McCoy
+modify Edward Rochester:Gale Hawthorne
+remove Jean-Luc Picard
+add Hannibal Lecter
+modify Spike Xena:Han Solo
+display
+add Ron Weasley
+modify Lara Croft:Obi-Wan Kenobi
+remove Edward Rochester
+delete
+0

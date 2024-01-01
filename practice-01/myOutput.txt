@@ -1,0 +1,35 @@
+Command: add Allyson Senger
+	Allyson Senger was added. 4 spot(s) remain.
+Command: modify David McPherson:Dave McPherson
+	No student with name David McPherson found.
+Command: add Steve Edwards
+	Steve Edwards was added. 3 spot(s) remain.
+Command: display
+	Currently Enrolled:
+		Student 1: Allyson Senger
+		Student 2: Steve Edwards
+Command: remove Allyson Senger
+	Student Allyson Senger removed. The course now has 4 seats remaining.
+Command: remove Siwei Cao
+	No student named Siwei Cao was found to remove.
+Command: delete
+	Steve Edwards removed in class delete.
+	Class was restarted and reopened for enrollment.
+
+Command: add Margaret Ellis
+	Margaret Ellis was added. 1 spot(s) remain.
+Command: add Allyson Senger
+	Allyson Senger was added. 0 spot(s) remain.
+Command: add Heath Hillman
+	Student Heath Hillman not added. The class is already at capacity.
+Command: modify Allyson Senger:Allyson Lauren
+	Student Allyson Senger name modified to Allyson Lauren.
+Command: display
+	Currently Enrolled:
+		Student 1: Margaret Ellis
+		Student 2: Allyson Lauren
+Command: delete
+	Margaret Ellis removed in class delete.
+	Allyson Lauren removed in class delete.
+	Class was restarted and reopened for enrollment.
+
